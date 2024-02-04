@@ -1,0 +1,53 @@
+h3{
+    background-color: green;
+    text-align: right;
+}
+
+/* h1{
+    background-color: rgb(11, 161, 148); 
+    color: rgb(8, 8, 8);
+    padding: 40px;
+} */
+*{
+    /* text-decoration: underline; */
+    /* Використовуємо в 1 випадку зазвичай */
+}
+header{
+    background-color: gray;
+}
+footer{
+    background-color: blueviolet;
+}
+
+h4, h5, h6{
+    background-color: gold;
+    color: black;
+    text-align: center;
+}
+/* DRY  Don't repeat yourself*/
+/* h4{
+    background-color: gold;
+    color: black;
+    text-align: center;
+}
+h5{
+    background-color: gold;
+    color: black;
+    text-align: center;
+}
+h6{
+    background-color: gold;
+    color: black;
+    text-align: center;
+} */
+h4, h5, h6{
+    /* background-color: #ffffff; */
+    background-color: #fff;
+    background-color: rgba(56, 62, 69, 0.5);
+    /* alpha */
+    /* background-color: rgb(56, 62, 69); */
+
+    /* background-color: yellowgreen; */
+    color: black;
+    text-align: center;
+}
